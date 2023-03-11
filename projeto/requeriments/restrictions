@@ -1,0 +1,10 @@
+[restrictions] Restrições
+{
+    Condições ou situações que limitam seu planejamento e desenvolvimento e não podem ser eliminadas ou alteradas no decorrer do projeto.
+    Devem ser descritas em tópicos. Ex.: Orçamento predefinido ou datas impostas.
+}
+
+- O escopo so sera alterado mediante ajuste no orcamento
+- O cronograma estara sujeito a altearacoes sempre que o escopo for alterado
+
+

@@ -1,0 +1,54 @@
+
+[business] Entendendo o Negócio do Projeto
+{
+    Faça:
+        - Uma pré-análise do mercado no qual pretende inserir o seu produto de software
+    identifique:
+        - O problema a ser resolvido
+        A demanda a ser suprida
+        A vantagem que pode ser adquirida ou desenvolvida
+    Avalie:
+        - As lacunas que o seu projeto ajuda a preencher
+        Quais obstáculos o grupo irá enfrentar ao longo dessa jornada
+}
+
+[goal]Objetivo do Projeto
+{
+    Descreva:
+        - O que se pretende realizar para resolver o problema central ou explorar a oportunidade identificada.
+}
+
+[premisses] Premissas
+{
+    Previsões que são feitas e assumidas como verdadeiras para viabilizar a continuidade do planejamento do projeto.
+    Normalmente implicam em risco para a execução do projeto, por isso devem ser monitoradas ao longo do projeto.
+    Devem ser descritas em tópicos.
+}
+
+[restrictions] Restrições
+{
+    Condições ou situações que limitam seu planejamento e desenvolvimento e não podem ser eliminadas ou alteradas no decorrer do projeto. Devem ser descritas em tópicos. Ex.: Orçamento predefinido ou datas impostas.
+}
+
+[riscs] Riscos Iniciais
+{
+    Relacionar em tópicos os riscos iniciais identificados no projeto.
+}
+
+[team] Equipe do Projeto
+
+{
+    nome:
+    cargo: 
+}
+
+[parts] Partes Interessadas
+{
+    Listar as partes interessadas do projeto e explicar como elas serão afetadas pelo projeto
+}
+
+Fornecedores: Podereao agilizar e organizar o processo de vendas
+Hospitais: Poderao agilizar e o organizar o processo de compras
+
+
+

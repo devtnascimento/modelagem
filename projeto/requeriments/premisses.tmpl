@@ -1,0 +1,28 @@
+
+[premisses] Premissas
+{
+    Previsões que são feitas e assumidas como verdadeiras para viabilizar a continuidade do planejamento do projeto.
+    Normalmente implicam em risco para a execução do projeto, por isso devem ser monitoradas ao longo do projeto.
+    Devem ser descritas em tópicos.
+}
+
+
+    Seguranca:
+        - Autenticacao de fornecedores e hospitais
+        - Acesso independente aos dados compartilhados entre os agentes, ou seja, Em um mesmo canal de cotacao
+        o fornecedor pode visualizar os dados disponibilizados pelo hospital mas nao os de outro fornecedor.
+        
+    Usabilidade:
+        - Interface grafica de usuario
+        - Comunicacao, sem interrupcoes, entre os agentes do negocio.
+        - Cadastro unificado de produtos por canal fornecedor/hospital
+    Desempenho:
+        - Tempo de resposta maximo para comunicacao: 1 segundo
+        - Tempo de resposta maximo para upload de OC's/NF's: 10 segundos
+        - Tempo de resposta maximo para lancamento/aprovacao de propostas: 500 milisegundos
+    Escalabilidade:
+        - Manutencao da usabilidade conforme o aumento do numero de produtos e agentes
+        - Manutencao do desempenho conforme o aumento do numro de usuarios.
+    Disponibilidade:
+        - Nivel de servico deve ser de 99,999999% durante o horario comercial definido como de 6:00 as 20:00 UTC-3
+

@@ -1,0 +1,56 @@
+
+Requisitos Funcionais:
+    
+
+
+
+1- Cadastro do usuário
+2- Login no sistema
+3- Bloquear acesso do usuário após n tentativas
+de acesso sem sucesso
+4- Liberação de cadastro após conferência do
+documentação
+5- Permitir usuário recuperar senha por e-mail
+após identificação.
+6- Alterar Senha de usuário pelo próprio ou pela
+área de suporte.
+7- Permitir modificação no cadastro
+8- Permitir o envio de ordens de compra
+9- Cancelamento da ordem de Compra
+10- Modificação da ordem de compra
+11- Permitir consulta de status da OC
+12- Permitir OC por quantidade de ações ou por
+Valor financeiro
+13- Consultar histórico de OC
+14- Permitir OC a mercado
+15- Visualizar OC relacionadas a ação selecionada
+16- Permitir envio de OC com gatilho
+17- Permitir envio de ordens venda
+18- Cancelamento da OV
+19- Modificação da OV
+20- Permitir consulta de status da OV
+21- Permitir OV por quantidade de ações ou por
+Valor financeiro
+22- Consultar histórico de OV
+23- Permitir OV a mercado
+24- Visualizar OV relacionadas a ação selecionada
+25- Permitir envio de OV com gatilho
+26- Permitir visualizar carteira de açoes
+27- Permitir OC/OV através da tela de carteira do
+cliente
+28- Permitir agrupar ações na carteira.
+29- Permitir criação de grupos de ação.
+30- Permitir compra de ação fracionado/lote
+automaticamente
+31- Permitir Venda de ação fracionado/lote
+automaticamente
+32- Emitir aviso caso cliente esteja negociando no
+mercado fracionário
+33- Visualizar "Extrato"das ações com todas os
+negócios realizados com ela em um
+determinado período
+34- Cotação da açoes em carteira
+35- Permitir personalização da visualização de
+cotações
+36- Incluir botão de "negócio rápido" para ações
+em carteira
