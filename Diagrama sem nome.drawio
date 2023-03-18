@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-03-18T13:34:24.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="x3mx_ZYeHhmHz2DxoEI5" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-18T14:37:34.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="pPArCDNj4N4MiiY3wveB" version="21.0.8" type="github">
   <diagram name="Página-1" id="8uZLIiInbAxbceOaGWwA">
-    <mxGraphModel dx="880" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="435" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JZNZVgw134w5PySKUrdk-1" value="Cadastrar Ordem de compra" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JZNZVgw134w5PySKUrdk-1" value="Cadastrar Solicitação de Compra" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JZNZVgw134w5PySKUrdk-2" value="Cadastrar Perfil" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JZNZVgw134w5PySKUrdk-3" value="Cadastrar Ordem de Venda" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JZNZVgw134w5PySKUrdk-3" value="Cadastrar Proposta de Venda" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JZNZVgw134w5PySKUrdk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JZNZVgw134w5PySKUrdk-4" target="JZNZVgw134w5PySKUrdk-2">
@@ -26,6 +26,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JZNZVgw134w5PySKUrdk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JZNZVgw134w5PySKUrdk-4" target="JZNZVgw134w5PySKUrdk-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZNZVgw134w5PySKUrdk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JZNZVgw134w5PySKUrdk-4" target="JZNZVgw134w5PySKUrdk-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JZNZVgw134w5PySKUrdk-4" value="Hospital" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -47,7 +50,7 @@
           <mxGeometry x="500" y="350" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JZNZVgw134w5PySKUrdk-7" value="Comunicação&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="780" width="120" height="80" as="geometry" />
+          <mxGeometry x="220" y="870" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JZNZVgw134w5PySKUrdk-8" value="Criar Cotação" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="450" width="120" height="80" as="geometry" />
@@ -57,6 +60,9 @@
         </mxCell>
         <mxCell id="JZNZVgw134w5PySKUrdk-21" value="Aprovar proposta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JZNZVgw134w5PySKUrdk-23" value="Enviar Ordem de Compra" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="770" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
