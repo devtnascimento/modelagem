@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T18:44:59.188Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="aE9_kwYJoIiftMDlbfgM" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T19:34:51.950Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="tUHH7Mb9T_dQsxM5Rk1W" version="21.1.1" type="github">
   <diagram name="Página-1" id="NxQv1sxKOMNu2wI81o3b">
-    <mxGraphModel dx="1391" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1636" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="msIecjwq2WBjN2WtS-0W-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3VhkNSMrKnLqijpkA6vH-1" source="3VhkNSMrKnLqijpkA6vH-11" target="3VhkNSMrKnLqijpkA6vH-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3VhkNSMrKnLqijpkA6vH-11" value="Cria Solicitacao de Compra" style="rounded=0;whiteSpace=wrap;html=1;" parent="3VhkNSMrKnLqijpkA6vH-1" vertex="1">
+        <mxCell id="3VhkNSMrKnLqijpkA6vH-11" value="Envia Solicitacao de Compra" style="rounded=0;whiteSpace=wrap;html=1;" parent="3VhkNSMrKnLqijpkA6vH-1" vertex="1">
           <mxGeometry x="1026" y="72.5" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="msIecjwq2WBjN2WtS-0W-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3VhkNSMrKnLqijpkA6vH-1" source="3VhkNSMrKnLqijpkA6vH-12" target="msIecjwq2WBjN2WtS-0W-21">
